@@ -3,5 +3,6 @@ object Hi {
 
       println("Hi !!!")
     }
+    def getName(){}
 
 }
